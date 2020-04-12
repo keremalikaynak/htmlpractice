@@ -1,0 +1,57 @@
+
+h1 {
+    color: #b30505;
+    text-align: center;
+}
+
+p  {
+    color: blue
+}
+
+div {
+    background-color: bisque;
+    width: 500px;
+    height: 400px;
+    margin: 50px;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    border: 5px solid #b30505
+}
+
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-size: 50px;
+    width: 50%;
+    text-align: center;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+th {
+    background-color: lightcoral;
+}
+
+
+#top {
+    font-size: 36px;
+    color: red;
+}
+
+#middle {
+    font-size: 24px;
+}
+
+#bottom {
+    font-size: 12px;
+}
+
+.name {
+    font-weight: bold;
+    color: blue;
+}
